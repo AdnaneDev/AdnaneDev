@@ -1,5 +1,5 @@
 I am Bahri Adnane,A full stack web developer with 1 years of experience,
-Have expertise in Html, CSS,Bootstrap, JavaScript,Reactjs,NodeJs,Mysql.
+Have expertise in Html, CSS,Bootstrap, JavaScript,learnig Reactjs,NodeJs,Mysql.
 I can develop any kind of webSite using all my skills according to your requirements. 
 My first priority is to provide quality work to my clients.
 <!---
